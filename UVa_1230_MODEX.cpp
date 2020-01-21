@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 long long binpow(long long x,long long y,long long n){
 	x%=n;
     long long res=1;
