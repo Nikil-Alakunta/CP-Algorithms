@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 int binpow(long long a, long long b)
 {
     if(a == 0 && b == 0)    return 0;
